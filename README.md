@@ -94,6 +94,4 @@ Para esse desafio, temos os seguintes testes:
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
----
 
-Feito com 💜 by Jaime Barbosa :wave: [Linkedin](https://www.linkedin.com/in/jaimebs/)
